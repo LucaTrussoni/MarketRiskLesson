@@ -2,6 +2,6 @@ name: MarketRiskLesson
 dependencies:
   - numpy
   - pandas
-  - pandas_datareader
+  - pandas-datareader
   - matplotlib
   - scipy
