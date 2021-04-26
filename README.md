@@ -6,7 +6,7 @@ Year 2019. The repository contains three notebooks:
 
 1-Hedging => hedging of a digital option
 
-2-Frontier => building a Markowitz frontier, and analysing some aspects
+2-Frontier => building a Markowitz frontier, and analysis of some aspects
 
 3-VarExample => an example of VaR calculation (in parametric and historical approaches)
 
