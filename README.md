@@ -1,5 +1,6 @@
 # MarketRiskLesson
-In 2019 this repository was created to host the notebooks for the exercises of a market risk lesson held by me at different universities.
+In 2019 this repository was created to host the notebooks for the exercises of market risk lesson held at LUISS.
+The repository is here to allow students to load them in binder and execute the exercises.
 
 2019. This repository contains two notebooks:
 1-Hedging => hedging of a digital option
