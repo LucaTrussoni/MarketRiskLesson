@@ -1,6 +1,6 @@
 # MarketRiskLesson
 In 2019 this repository was created to host the notebooks for the exercises of market risk lesson held at LUISS.
-The repository is here to allow students to load them in binder and execute the exercises.
+The repository is here to allow students to upload the notebooks in binder and execute the exercises.
 
 Year 2019. The repository contains three notebooks:
 
@@ -10,7 +10,7 @@ Year 2019. The repository contains three notebooks:
 
 3-VarExample => an example of VaR calculation (in parametric and historical approaches)
 
-Notice: the workbooks do not work any more... I do not mantain them any more
+Notice: the workbooks do not work any more, and I'm not likely to mantain them...
 
 Year 2021. One notebook only:
 
