@@ -1,7 +1,0 @@
-name: MarketRiskLesson
-dependencies:
-  - numpy
-  - pandas
-  - pandas-datareader
-  - matplotlib
-  - scipy
