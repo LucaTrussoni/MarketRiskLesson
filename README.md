@@ -10,8 +10,8 @@ Year 2019. The repository contains three notebooks:
 
 3-VarExample => an example of VaR calculation (in parametric and historical approaches)
 
-Notice: the workbooks do not work any more, and I'm not likely to mantain them...
+Notice: the workbooks do not work any more, are here just for the fun (and contain some errors...).
 
 Year 2021. One notebook only:
 
-1-Exercises_2021 => VaR calculation, backtesting and hedging.
+1-Exercises2021 => VaR calculation, backtesting and hedging.
